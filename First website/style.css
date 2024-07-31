@@ -1,0 +1,17 @@
+body{
+    background-image:url(./images/1278261.jpg);
+    background-size: cover;
+    
+}
+
+form{
+    width: 30%;
+    margin: auto;
+    padding-top: 150px;
+}
+.bg{
+    background-color: #FFEADD;
+}
+.btn-color{
+    background-color: #ff6666;
+}
